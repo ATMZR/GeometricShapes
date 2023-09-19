@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricShapes", "Geometri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricShappesTest", "GeometricShappesTest\GeometricShappesTest.csproj", "{005D5D17-5559-4B5A-89A3-828C53A29066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLRequest", "SQLRequest\SQLRequest.csproj", "{7D3F1536-D52A-4E0A-81C5-75E2EE63DF21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLQueryExample", "SQLRequest\SQLQueryExample.csproj", "{7D3F1536-D52A-4E0A-81C5-75E2EE63DF21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
